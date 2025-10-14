@@ -28,7 +28,8 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&opacity=50)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-
+### 🔹 CODING
+  ![](https://wakatime.com/share/@chaoji_xinren/5d67a3e3-0e5b-497a-aee1-d3a7e4fadb12.png)
 ## 📫 联系与交流
 - 📧 邮箱：chaoji_xinren@163.com
 - 🏫 学校：DLUT
