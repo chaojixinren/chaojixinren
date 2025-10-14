@@ -2,9 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=478EF7&center=true&vCenter=true&width=435&lines=%E8%8E%AB%E5%90%AC%E7%A9%BF%E6%9E%97%E6%89%93%E5%8F%B6%E5%A3%B0%EF%BC%8C%E4%BD%95%E5%A6%A8%E5%90%9F%E5%95%B8%E4%B8%94%E5%BE%90%E8%A1%8C)](https://git.io/typing-svg)
 <div align="center">
   <img src="touxiang.jpg" alt="个人头像" width="150" height="150" style="border-radius: 50%;">
-  <p>大连理工大学 | 全栈开发探索者|日本語を勉強しています</p>
+  <p>DLUT | 新手开发者|日本語を勉強しています</p>
 
 </div>
+
+## 🎓About ME
+### I am a freshman at Dalian University of Technology, and I like software engineering！
 
 ##  🚀 Tech Learning
 
