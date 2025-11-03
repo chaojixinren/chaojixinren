@@ -24,4 +24,3 @@
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaojixinren&show_icons=true&theme=radical)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaojixinren&layout=compact)
 
-  <img src="https://github-profile-trophy.vercel.app/?username=chaojixinren&theme=gruvbox" />
