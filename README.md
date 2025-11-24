@@ -7,7 +7,7 @@
 </div>
 
 ## 🎓About ME
-### I am a freshman at Dalian University of Technology, and I like software engineering！
+### I am a freshman at Dalian University of Technology and I like software engineering！
 
 ##  🚀 Tech Learning
 
