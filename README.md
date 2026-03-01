@@ -21,6 +21,14 @@
 ### 🔹 CODING
   ![](https://wakatime.com/share/@chaoji_xinren/5d67a3e3-0e5b-497a-aee1-d3a7e4fadb12.png)
 ### 🔹 GitHub Activity Graph
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaojixinren&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaojixinren&layout=compact)
+<table>
+  <tr>
+    <th>
+      <img alt="GitHub Stats" src="https://github-readme-stats-ins.vercel.app/api?username=chaojixinren&show_icons=true&theme=city_lights&bg_color=0000&hide_border=true" align="center" />
+    </th>
+    <th>
+      <img alt="Top Langs" src="https://github-readme-stats-ins.vercel.app/api/top-langs/?username=chaojixinren&layout=compact&theme=city_lights&bg_color=0000&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
+    </th>
+  </tr>
+</table>
 
