@@ -17,7 +17,7 @@
 
 ### 🔹 Database： ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white&opacity=70)![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&opacity=30)
 
-### 🔹 Development Tools： ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&opacity=50)![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 🔹 Development Tools： ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&opacity=50)![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ### 🔹 CODING
   ![](https://wakatime.com/share/@chaoji_xinren/5d67a3e3-0e5b-497a-aee1-d3a7e4fadb12.png)
 ### 🔹 GitHub Activity Graph
